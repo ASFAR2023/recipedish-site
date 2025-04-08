@@ -35,7 +35,7 @@ const SingleAuthor: FC<SingleAuthorProps> = ({ author: authorProp }) => {
 				/>
 			</Link>
 			<div className="ms-3 flex max-w-lg flex-col sm:ms-5">
-				<span className="text-xs uppercase tracking-wider text-neutral-400">
+				<span className="text-xs uppercase tracking-wider text-neutral-400 asfar">
 					{T.pageSingle['WRITTEN BY']}
 				</span>
 				<h2 className="text-base font-semibold capitalize text-neutral-900 sm:text-lg dark:text-neutral-200">
